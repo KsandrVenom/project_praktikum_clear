@@ -1,7 +1,3 @@
-# project_praktikum_clear
-![Программа и прогресс](https://github.com/KsandrVenom/project_praktikum_clear/blob/main/2023-06-06_170142.png)
-
-
 # Введение
 
 Это меньше, чем вообще выполненных проектов, но там смысла выкладывать нет.
@@ -19,3 +15,7 @@
 * Исследование объявлений о продаже квартир
 * Исследование надежности заемщиков
 * Исследование для интернет-магазина компьютерных игр "Стримчик"
+
+# project_praktikum_clear
+![Программа и прогресс](https://github.com/KsandrVenom/project_praktikum_clear/blob/main/2023-06-06_170142.png)
+
