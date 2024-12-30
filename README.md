@@ -28,4 +28,4 @@
 
 ![OpenCV](https://github.com/KsandrVenom/project_praktikum_clear/blob/main/2024-09-05_142533%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg)
 
-![Сертификат ML](https://github.com/KsandrVenom/project_praktikum_clear/blob/main/76.png)
+![Сертификат ML](https://github.com/KsandrVenom/project_praktikum_clear/blob/main/Globus-%D1%81%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%829-1.png)
