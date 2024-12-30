@@ -23,4 +23,6 @@
 
 # project_praktikum_clear
 ![Программа и прогресс](https://github.com/KsandrVenom/project_praktikum_clear/blob/main/76.png)
-
+![Pytorch]([https://github.com/KsandrVenom/project_praktikum_clear/blob/main/76.png](https://github.com/KsandrVenom/project_praktikum_clear/blob/main/2024-09-30_222135.jpg))
+![OpenCV]([https://github.com/KsandrVenom/project_praktikum_clear/blob/main/76.png](https://github.com/KsandrVenom/project_praktikum_clear/blob/main/2024-09-05_142533%20%E2%80%94%20%D0%BA%D0%BE%D0%BF%D0%B8%D1%8F.jpg))
+![Сертификат ML](https://github.com/KsandrVenom/project_praktikum_clear/blob/main/76.png)
